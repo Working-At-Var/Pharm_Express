@@ -1,4 +1,4 @@
-## Pharm_Express
+## :pill: Pharm_Express
 
 Olá!
 
@@ -15,13 +15,13 @@ Esperamos que este projeto possa contribuir para a melhoria da experiência dos 
 farmácias onlines. Agradecemos a todos que estão acompanhando e colaborando com o nosso trabalho.
 
 ### Integrantes do Grupo
-- Erika
-- Gabriela
-- Isabela
-- Eduardo 
-- Kaique
-- Leonardo
-- Renan
+- :raising_hand: Erika
+- :raising_hand: Gabriela
+- :raising_hand: Isabela
+- :boy: Eduardo 
+- :boy: Kaique
+- :boy: Leonardo
+- :boy: Renan
 
 ### ✔️ Técnicas e tecnologias utilizadas
 
